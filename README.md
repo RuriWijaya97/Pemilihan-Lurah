@@ -1,2 +1,2 @@
-# Pemilihan-Lurah
+# Pemilihan Lurah
 CLI &amp; Development Colloboration Task
